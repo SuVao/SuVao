@@ -1,55 +1,47 @@
-# 👋 Hi, I'm Pedro Miguel Silva Cabrita  
+# Hi there, I'm Pedro Silva (pesilva-) 👋
 
-🎯 **Aspiring Software Developer | 42 Lisboa Student | Tech Enthusiast**  
-
-I'm a programming student at **42 Lisboa**, currently improving my skills in **C, C++, Python, and computational logic**.  
-With a background in **team management, problem-solving, and process optimization** from my 6 years in gastronomy, I'm now fully focused on transitioning into the **tech world**, aiming to work on **innovative projects** and grow as a **software developer**.  
+I am a software engineering student at **42 Lisboa**, currently in the final stages of the **Common Core**. My journey focuses on low-level programming, system architecture, and building scalable infrastructure.
 
 ---
 
-## 🚀 **Tech Stack & Skills**
+### 🎓 42 School Progress
+I have successfully navigated through most of the 42 curriculum and am currently tackling the final challenges of the program.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Concepts:** Algorithms, Computational Logic, Problem-Solving  
-- **Soft Skills:** Teamwork, Adaptability, Organization, Attention to Detail  
+* ⏳ **Final Goals:** Completing `Webserv` (C++ HTTP Server) and `ft_transcendence` (Full-stack Web).
+* ✅ **Background:** Solid foundation in multi-threading (`Philosophers`), systems programming (`Minishell`), and containerization (`Inception`).
 
 ---
 
-## 📊 **GitHub Stats**
+### 🛠️ Tech Stack
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuVao&show_icons=true&theme=tokyonight)  
+* **Languages:**
+    * **C** (System programming, memory management)
+    * **C++** (OOP, Templates, Network programming)
+    * **Shell Script** (Automation, Bash scripting)
+* **Infrastructure:**
+    * **Docker & Docker Compose** (Containerization and orchestration)
+    * **Linux/Unix** (Environment mastery)
+    * **Git** (Version control)
+
+---
+
+### 🚀 Key Project Experience
+
+* **Concurrency:** Solved complex synchronization issues using threads and mutexes.
+* **Virtualization:** Built complete infrastructures using Docker, managing Nginx, WordPress, and MariaDB.
+* **Systems:** Recreated a functional Shell to understand process management and redirections.
+* **Networking:** Currently developing a non-blocking HTTP server in C++.
+
+---
+
+### 📫 Contact Me
+
+* **Email:** pedro.radon@gmail.com
+* **LinkedIn:** www.linkedin.com/in/pesilva-
+* **Intra 42:** pesilva-
+
+---
+
+### 📊 GitHub Activity
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuVao&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuVao&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 **Currently Learning**
-
-✔ Advanced C++ (OOP, Polymorphism)  
-✔ Data Structures & Algorithms  
-✔ Shell scripting and system programming  
-✔ Collaborative projects and open-source contributions  
-
----
-
-## 📌 **Goals for 2025**
-
-✅ Contribute to open-source projects  
-✅ Build and share personal projects on GitHub  
-✅ Join a **startup or tech team** to grow as a software developer  
-
----
-
-## 📫 **Let’s Connect!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-silva-a3b89b115/)  
-✉ **Email:** pedro.radon@gmail.com  
-
----
-
-⭐ *"Small steps, tiny changes, big results — every day learning to code better."*
