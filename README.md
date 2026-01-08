@@ -41,7 +41,3 @@ I have successfully navigated through most of the 42 curriculum and am currently
 * **Intra 42:** pesilva-
 
 ---
-
-### 📊 GitHub Activity
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuVao&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuVao&layout=compact&theme=tokyonight)
